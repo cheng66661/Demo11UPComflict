@@ -9,7 +9,8 @@ public class Demo11UpComflictApplication {
     public static void main(String[] args) {
         SpringApplication.run(Demo11UpComflictApplication.class, args);
         System.out.println("12");
-         System.out.println("12");
+        System.out.println("12");
+        System.out.println("666");
     }
 
 }
