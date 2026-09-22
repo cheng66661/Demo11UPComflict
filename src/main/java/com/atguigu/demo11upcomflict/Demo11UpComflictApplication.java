@@ -13,7 +13,7 @@ public class Demo11UpComflictApplication {
         System.out.println("12");
         System.out.println("12");
         System.out.println("666");
-        System.out.println("end");
+        System.out.println("end666");
     }
 
 }
